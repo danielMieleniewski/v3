@@ -7,7 +7,6 @@ Welcome to `v3`, my personal portfolio! This repository showcases projects I’v
 - **[Students Database]**:(https://github.com/danielMieleniewski/StudentDatabase)
 - **[Car Insurance]**(https://github.com/danielMieleniewski/carInsuranceAssignment)
 
-- *(Add more as needed)*
 
 ## How to Explore
 1. Clone the repo:
